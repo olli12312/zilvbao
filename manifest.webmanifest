@@ -1,0 +1,16 @@
+{
+  "name": "自律宝 · 作息与学习时间管家",
+  "short_name": "自律宝",
+  "description": "说一句话，自动记录作息、学习、运动时间，并生成三日/周/月报表与 AI 分析建议。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1220",
+  "theme_color": "#0f1220",
+  "categories": ["productivity", "lifestyle", "health"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
